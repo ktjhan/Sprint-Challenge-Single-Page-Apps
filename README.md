@@ -27,6 +27,10 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
+- Because less data is processed, routing between views is generally faster.
+
+- Smooth transitions and animations between views are easier to implement.
+
 > Answer:
 
 ## Project Set Up
@@ -70,7 +74,7 @@ _Display Data from a Server API_
 _Add a Router to this application using [React Router](https://reacttraining.com/react-router/web/guides/quick-start)._
 
 - [ ]  Hook up the Welcome page(Home page) and a Characters page with React Router.
-- [ ]  Use a styling or component library for part of or all of your application. (Pick at least 1 of: [s](https://react-bootstrap.github.io/)tyled-components or Reactstrap).
+- [ ]  Use a styling or component library for part of or all of your application. (Pick at least 1 of: [s](https://react-bootstrap.github.io/)styled-components or Reactstrap).
 
 _Add 'Search by Name' feature._
 
